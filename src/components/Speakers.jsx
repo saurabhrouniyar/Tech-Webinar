@@ -11,7 +11,7 @@ const Speakers = () => {
         <div className="speaker-card">
           <div className="avatar bg-blue-500">R</div>
           <h3 className="text-lg font-semibold mt-4">Saurabh Kumar</h3>
-          <p className="text-gray-600">FrontEnd Developer</p>
+          <p className="text-gray-600">FrontEnd-Developer</p>
         </div>
 
         {/* Speaker 2 */}
