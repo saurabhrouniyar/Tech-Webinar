@@ -5,7 +5,7 @@ const Speakers = () => {
         Meet Our Speakers
       </h2>
 
-      <div className="flex flex-col md:flex-row justify-center gap-10">
+      <div className="flex flex-col md:flex-row items-center justify-center gap-10">
 
         {/* Speaker 1 */}
         <div className="speaker-card">
